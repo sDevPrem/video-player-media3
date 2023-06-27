@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="videos_label">All Videos</string>
+    <string name="folders_label">All Folders</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="feedback">Feedback</string>
+    <string name="themes">Themes</string>
+    <string name="sort_order">Sort Order</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+
+    <string name="video_name">Video Name</string>
+    <string name="folder_name">Folder Name</string>
+    <string name="duration">00:00</string>
+    <string name="image">Image</string>
+    <string name="player_time_separator">:</string>
+
+    <string name="lock">Lock Icon</string>
+    <string name="back_btn">Back Button</string>
+    <string name="player_menu">Player Menu</string>
+
+</resources>

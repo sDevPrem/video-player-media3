@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/feedback"
+        android:title="@string/feedback" />
+    <item
+        android:id="@+id/themes"
+        android:title="@string/themes" />
+    <item
+        android:id="@+id/sortOrder"
+        android:title="@string/sort_order" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/about" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit" />
+</menu>
